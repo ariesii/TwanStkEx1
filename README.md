@@ -14,4 +14,5 @@ Note:
 
 Example:
 1. To get 2330 data: #python TwanStkEx1.py 2330
+
 2. To get 2412 data: #python TwanStkEx1.py 2412
