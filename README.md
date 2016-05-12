@@ -13,8 +13,5 @@ Note:
 2. This program is to get TWSE data only, if wants OTC data, need to modify code.
 
 Example:
-1. To get 2330 data:
-#python TwanStkEx1.py 2330
-
-2. To get 2412 data:
-#python TwanStkEx1.py 2412
+1. To get 2330 data: #python TwanStkEx1.py 2330
+2. To get 2412 data: #python TwanStkEx1.py 2412
